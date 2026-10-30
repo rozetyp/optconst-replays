@@ -1,0 +1,6 @@
+== b1_plus0.1pct.json
+E5 FAILED on 432 cells, e.g. cell 406 near x = 2.0546279677840356: lower bound -4.290759515059236e-17
+== bound_minus1e-15.json
+AssertionError: E6 FAILED: bound 361699794601482696502500000000297/199999999999999703000000000000000 differs from T/m = 144679917840593158601/79999999999999881200
+== density_cell618_minus1pct.json
+AssertionError: E4 not certified for [-1, 1]: [-4.17874703405685100877100724412e-6 +/- 9.09e-36]

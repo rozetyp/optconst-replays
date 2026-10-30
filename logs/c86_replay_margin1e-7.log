@@ -1,0 +1,7 @@
+E1 ok: N = 1196 cells, 633 in support, S within [11/200, 519/100], m = 199999999999999703/200000000000000000
+E2 ok: 19 primitive irreducible pairwise non-associate polynomials (all real-rooted: True)
+E3 ok: sum b deg / m = 0.835424 < 1
+E6 ok: T/m = bound = 144679917840593158601/79999999999999881200 = 1.8084989730
+E4 ok: every weighted Q has int log|Q| dmu > 0 (smallest [2.0000e-6 +/- 2.4e-14])
+E5 ok: f >= [1.00e-7 +/- 3e-14] on all 633 support cells (76743 pieces; smallest certified piece bound 1.014e-07)
+CERTIFIED: C86 <= 144679917840593158601/79999999999999881200 = 1.8084989730   (26 s)

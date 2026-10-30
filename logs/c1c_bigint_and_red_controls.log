@@ -1,0 +1,5 @@
+K=24576 n=24592 argmin k=21264 score=134648548624804778248790016/328144294688458468928334649 = 0.41033335274849
+claimed fraction: EXACT MATCH
+claim 2e-15 above the exact value : claimed fraction: REFUTED (claim above exact value)
+a negative weight                 : refused
+a non-integer weight              : refused
